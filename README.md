@@ -1,4 +1,4 @@
 ##wxImport
->A sample import tied into the [wxProj][] project
+>A sample import tied into the [wxProj](wxProj/README.md) project
 
-[wxProj] = https://github.com/bwhyte21/wxProj
+
