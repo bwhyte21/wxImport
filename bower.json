@@ -1,0 +1,10 @@
+{
+  "name": "wxImport",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bwhyte21/wxImport",
+  "authors": [
+    "bwhyte21 <bwhyte21@gmail.com>"
+  ],
+  "description": "A sample import tied into the wxProj project",
+  "license": "none"
+}
