@@ -3,6 +3,6 @@
   "version": "1.0.3",
   "description": "A sample import tied into the wxProj project",
   "main": ["./dist/wxImport.js", "./dist/wxImport.css"],
-  "ignore": "./vendor,
+  "ignore": "./vendor",
   "license": "none"
 }
