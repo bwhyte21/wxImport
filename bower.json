@@ -1,6 +1,6 @@
 {
   "name": "wxImport",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A sample import tied into the wxProj project",
   "main": ["./dist/wxImport.js", "./dist/wxImport.css"],
   "license": "none"
