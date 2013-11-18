@@ -9,5 +9,5 @@
   "*.md"
   ],
   "license": "none",
-  "dest":"wxDesk"
+  "dest":"wxdesk"
 }
